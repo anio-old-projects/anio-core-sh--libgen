@@ -1,0 +1,11 @@
+{
+  "name": "@anio-core-sh/libgen",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "anio_core_libgen": "./src/cli.js"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
