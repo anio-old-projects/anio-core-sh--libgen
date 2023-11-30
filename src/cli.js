@@ -63,7 +63,7 @@ function createExports(functions) {
 function createDefaultExport(functions) {
 	let tmp = "export default {\n"
 
-	tmp += functions.map(({fn_name}) => `   ${fn_name}`).join(",\n")
+	tmp += functions.map(({fn_name}) => `    ${fn_name}`).join(",\n")
 
 	return `${tmp}\n}`
 }
