@@ -1,6 +1,6 @@
 {
   "name": "@anio-core-sh/libgen",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "bin": {
     "anio_core_libgen": "./src/cli.js"
